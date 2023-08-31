@@ -14,12 +14,16 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4?
 
 - Bulleted
 - List
+- more **bullets**
 
 1. Numbered
 2. List
+
+`print("hello world")`
 
 **Bold** and _Italic_ and `Code` text
 
